@@ -20,6 +20,8 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <QuartzCore/QuartzCore.h>
+#import <UIKit/UIKit.h>
 
 // Flags that determine how the colors are extract
 typedef enum CCFlags: NSUInteger
