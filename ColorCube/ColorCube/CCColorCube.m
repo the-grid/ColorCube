@@ -20,6 +20,8 @@
 //
 
 #import "CCColorCube.h"
+#import <QuartzCore/QuartzCore.h>
+#import <UIKit/UIKit.h>
 
 #import "CCLocalMaximum.h"
 
